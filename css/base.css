@@ -1,5 +1,4 @@
 .maketforfigma{
-    flex: 0 0 auto;
     background: #313a46;
     font-weight: bold;
     display: flex;
@@ -23,16 +22,3 @@
 .maketforfigma p > a:hover {
     color: #ffffff
 }
-/* .main{
-    flex: 1 0 auto;
-}
-html{
-    height: 100%;
-}
-body{
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-} */
